@@ -50,13 +50,14 @@ A step by step series of examples that tell you how to get a development env run
 Say what the step will be
 
 ```
-Give the example
+firebase login
+firebase init
 ```
 
 And repeat
 
 ```
-until finished
+firebase deploy
 ```
 
 End with an example of getting some data out of the system or using it for a little demo.
