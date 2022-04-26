@@ -28,4 +28,12 @@ module.exports = {
     "quotes": ["error", "double"],
     "import/no-unresolved": 0,
   },
+  overrides: [
+    {
+      files: ["*.ts"],
+      rules: {
+        "max-len": "off", // disables line length check
+      },
+    },
+  ],
 };

@@ -9,6 +9,7 @@
 * firebase functions init
 
 ## Next Steps
+* Build Out Epics and Stories, Schedule Agile Ceremonies
 * Research Web Clipper Story in OneNote Epic and Notion Epic 
   * [Open Source Web Clipper Tool](https://github.com/webclipper/web-clipper)
 * Update README from stock lorem ipsum
