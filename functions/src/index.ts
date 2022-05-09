@@ -13,6 +13,11 @@ export const nlogfinish = functions.https.onRequest((request, response) => {
   response.send("Hello from Firebase!");
 });
 
+export const nlogreport = functions.https.onRequest((request, response) => {
+  functions.logger.info("Hello logs!", {structuredData: true});
+  response.send("Hello from Firebase!");
+});
+
 // OneNote Integration
 
 // Create Page
