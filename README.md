@@ -8,15 +8,15 @@
 <div align="center">
 
   [![Status](https://img.shields.io/badge/status-active-success.svg)]() 
-  [![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
-  [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls)
+  [![GitHub Issues](https://img.shields.io/github/issues/mitchellciupak/nlog.svg)](https://github.com/mitchellciupak/nlog/issues)
+  [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/mitchellciupak/nlog.svg)](https://github.com/mitchellciupak/nlog/pulls)
   [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
 </div>
 
 ---
 
-<p align="center"> Few lines describing your project.
+<p align="center"> Using Notion.so and Firebase Serverless Functions, this is a note automation system designed to help log the articles and media you consume, prepare them for notetaking, and compile reports.
     <br> 
 </p>
 
@@ -86,15 +86,12 @@ Add notes about how to use the system.
 Add additional notes about how to deploy this on a live system.
 
 ## ⛏️ Built Using <a name = "built_using"></a>
-- [MongoDB](https://www.mongodb.com/) - Database
-- [Express](https://expressjs.com/) - Server Framework
-- [VueJs](https://vuejs.org/) - Web Framework
-- [NodeJs](https://nodejs.org/en/) - Server Environment
+- [Firebase Firestore](https://firebase.google.com/docs/firestore) - Database
+- [Firebase Cloud Functions](https://firebase.google.com/docs/functions) - Serverless
+- [Go](https://go.dev/) - CLI
 
 ## ✍️ Authors <a name = "authors"></a>
-- [@kylelobo](https://github.com/kylelobo) - Idea & Initial work
-
-See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
+- [@mitchellciupak](https://github.com/mitchellciupak) - Sole Contributer
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 - Hat tip to anyone whose code was used
