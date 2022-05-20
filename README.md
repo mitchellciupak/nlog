@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/af9fa525-4d47-42a9-a370-f18de1aa7499/Add_a_little_bit_of_body_text_%281%29.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220425%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220425T163833Z&X-Amz-Expires=86400&X-Amz-Signature=106d54f68a6d5b91ce91000373f90c56738badd515c8ad38a5732803d061a37d&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22nlog_logo.png%22&x-id=GetObject" alt="Project logo"></a>
+ <img width=200px height=200px src="./logo.png" alt="Project logo"></a>
 </p>
 
 <h3 align="center">nlog</h3>
