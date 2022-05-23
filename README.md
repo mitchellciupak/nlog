@@ -26,8 +26,6 @@
 - [Deployment](#deployment)
 - [Usage](#usage)
 - [Built Using](#built_using)
-- [TODO](../TODO.md)
-- [Contributing](../CONTRIBUTING.md)
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
 
@@ -35,6 +33,9 @@
 Write about 1-2 paragraphs describing the purpose of your project.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
+
+Checkout the GH Wiki while this is in the works
+
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
 
 ### Prerequisites
@@ -94,6 +95,4 @@ Add additional notes about how to deploy this on a live system.
 - [@mitchellciupak](https://github.com/mitchellciupak) - Sole Contributer
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
-- Hat tip to anyone whose code was used
-- Inspiration
-- References
+- Hat tip to anyone whose code was used and the contributors to the [GitHub CLI](https://github.com/cli/cli) which served as inspiration for the nlog cli
