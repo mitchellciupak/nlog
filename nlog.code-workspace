@@ -4,5 +4,30 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {},
+	"tasks": { // CRTL + SHIFT + P -> Tasks 
+		"version": "2.0.0",
+		"tasks": [
+			{
+				"label": "open-backend-dev-envi",
+				"type": "shell",
+				"command": "ls"
+			},
+			{
+				"label": "open-backend-test-envi",
+				"type": "shell",
+				"command": "ls"
+			},
+			{
+				"label": "open-cli-dev-envi",
+				"type": "shell",
+				"command": "ls"
+			},
+			{
+				"label": "open-cli-test-envi",
+				"type": "shell",
+				"command": "ls"
+			},
+		]
+	}
 }
