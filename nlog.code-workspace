@@ -41,5 +41,7 @@
 		"compounds": []
 	},
 	"settings": {},
-	"extensions": {}
+	"extensions": {
+		"recommendations": ["ms-vscode-remote.remote-containers"]
+	}
 }
