@@ -64,7 +64,7 @@ Explain how to run the automated tests for this system.
 Explain what these tests test and why
 
 ```
-Give an example
+Example here
 ```
 
 ### And coding style tests
