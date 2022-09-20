@@ -30,7 +30,7 @@
 - [Acknowledgments](#acknowledgement)
 
 ## 🧐 About <a name = "about"></a>
-Nlog is an automated tracking system for your note taking
+Nlog is an automated tracking system for your taking notes or automating any MS OneNote entry process
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
